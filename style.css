@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    color: rgb(133, 8, 223);
+    font-size: 40px;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #000000;
+  
+}
+
+.stopwatch {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 30px;
+}
+
+#display {
+  font-size: 60px;
+  margin-bottom: 20px;
+  border: 6px solid #8e8787;
+  border-radius: 50%;
+  width: 400px;
+  height: 400px;
+  line-height: 400px;
+  display: inline-block;
+  background-color: #120f0f;
+  color:rgb(133, 8, 223);
+ 
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: rgb(133, 8, 223);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: rgb(133, 8, 223);
+}
+
+#lapTimes {
+  margin-top: 20px;
+  text-align: center;
+  color: rgb(133, 8, 223);
+font-size: 30px;
+}
